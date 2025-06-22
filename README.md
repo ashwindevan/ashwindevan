@@ -79,25 +79,14 @@ Here are some of my key projects:
 
 - **Title**: Design of High Entropy Alloys for High Temperature Applications using ML-driven Bayesian Optimization
 - **Details**: Manuscript submitted to the 5th International Conference on Current Trends in Materials Science and Engineering (2025). Applied XGBoost, GPR, and Bayesian optimization to design high-performance HEAs, with advanced featurization and bootstrapping for uncertainty validation.
-- **Status**: Submitted
-
----
-
-## 🏆 Certifications
-
-- Supervised Machine Learning: Regression and Classification (Coursera, Deeplearning.AI, 2023)
-- Advanced Learning Algorithms (Coursera, Deeplearning.AI, 2023)
-- Python for Data Science and Machine Learning (Udemy, 2023)
-- Data Structures and Algorithms in Python (Udemy, 2023)
 
 ---
 
 ## 📬 Contact
 
 - **Email**: [ashwindevan9@gmail.com](mailto:ashwindevan9@gmail.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-linkedin)
-- **GitHub**: [View my work](https://github.com/your-github)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/ashwin-devan-8bb515238/)
 
 ---
 
-*This README is a reflection of my journey in AI and software development. Explore my repositories to see more of my work!*
+*Feel free to contact and explore my repositories to see more of my personal work! and lets Build things Diffrent*
