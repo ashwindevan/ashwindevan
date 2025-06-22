@@ -1,4 +1,4 @@
-# <h1 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ashwin Devan!</h1>
+### <h1 align="left"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsydGQxamYwNzA0aHJhenp4MDYxcnlwem0zNGtweWt4aHg4bDliNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.gif" width="135">Hi, I'm Ashwin Devan!</h1>
 
 <!----Tag line------>
 <div align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNlcmF5Y2JwMXQ1dDY0bmltZTk4NHppdWU5cmIzbmh4cXFoenk3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="25"> <b> About Me</b>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNjcnltaWNycGxoa2F3ZHBtdmZzNHQ1ejU2OTBhdW5ndmM5bmp0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="35"> <b> About Me</b>
 
 I am driven by a passion for AI and software development along with data analytics, with a strong foundation in building scalable and secure applications. I thrive on innovative projects, leveraging technologies like machine learning, deep learning, natural language processing and the latest technological trend Agentic AI and Generative AI leveraging LLMs to solve complex challenges and build robust AI powered applications.
 
@@ -41,7 +41,7 @@ I am driven by a passion for AI and software development along with data analyti
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW84ZGpxeDFzYXYzMXl3ODVnYWVrMzF4dXJxZXh1YTduejFhbW9yZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="25"> <b> Projects</b>
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJtaDJmOWRldHNrZXFsdWJ5MXdxdHU4Ync1YXk0bWgybmR4eGZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8f3nS1Gajtv70qNicE/giphy.gif" width="35"> <b> Projects</b>
 
 Here are some of my projects:
 
@@ -82,18 +82,29 @@ Here are some of my projects:
 
 ---
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lzYnN1aHNqOW15NHBtYWQ4cG1kZXg0anVxOTdzanZxOHhtNzM5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="25"> <b> Publication</b>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp2MHcwbnhnNnFvM3U1ZjRyeDkyY3Vsb3djZDBwZ2p6aDVkcXc1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> <b> Publication</b>
 
-- **Title**: Design of High Entropy Alloys for High Temperature Applications using ML-driven Bayesian Optimization
+### **Design of High Entropy Alloys for High Temperature Applications using ML-driven Bayesian Optimization**
+
 - **Details**: Manuscript submitted to the 5th International Conference on Current Trends in Materials Science and Engineering (2025). Applied XGBoost, GPR, and Bayesian optimization to design high-performance HEAs, with advanced featurization and bootstrapping for uncertainty validation.
+
+<div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBpanF3bTl4dnJhZXp6YmYybXQ3ZzRmZHlsamZ0M3I2a3I0amh3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xULW8l2gXuRPmsQe8U/giphy.gif">
+<div>
 
 ---
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRxeXBrbjBxOW45NDNmMTZjaWUxY2RobW9iOXV1YzRjbXVhZzg3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="25"> <b> Contact</b>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNiczl1OGo0MWw2NThlcTYyemdsYzNja2x1MGhqNWhwb2J6NHl6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="35"> <b> Contact</b>
 
-- **Email**: [ashwindevan9@gmail.com](mailto:ashwindevan9@gmail.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/ashwin-devan-8bb515238/)
+ - **Email**: [ashwindevan9@gmail.com](mailto:ashwindevan9@gmail.com)
+ - **LinkedIn**: [_Connect with me_](https://www.linkedin.com/in/ashwin-devan-8bb515238/)
 
 ---
 
 *Feel free to contact and explore my repositories to see more of my personal work! and lets Build things Diffrent*
+
+<div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ5Y205ejduNDU5d3gzbWV5cmo1Z3QwbWQ3MXB2MWN3ZmwybjBqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/gf4uqnhHOFtBfK0uiz/giphy.gif">
+<div>
+
+
