@@ -4,42 +4,50 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;Building+LLM-based+Systems;Computer+Science+(AI)+Graduate;Agentic+AI;Machine+Learning+Enthusiast;Building+Different" alt="Headline" />
 </div>
-👋 A passionate software developer and AI enthusiast with expertise in building intelligent systems and agentic AI solutions. I specialize in Python, Java, and SQL, with a focus on creating impactful applications like **QueryMind**, a fully-fledged SQL AI agent web application. My interests lie in advancing agentic AI through machine learning, natural language processing, and robust software engineering.
+👋 A passionate Software Developer and AI enthusiast with expertise in building intelligent systems and agentic AI solutions keen intrest in leveraging and understanding latest technologies. I specialize in Python, Flask, Machine learning techniques, Large Language Models, NLP, Java, DSA and SQL with a focus on creating impactful applications like QueryMind, a fully-fledged SQL AI agent web application. My interests lie in advancing agentic AI through machine learning, natural language processing, Data analytics and robust software engineering.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am driven by a passion for AI and software development, with a strong foundation in building scalable and secure applications. My flagship project, **QueryMind**, transforms natural language queries into database operations, showcasing my ability to integrate AI with practical solutions. I thrive on innovative projects, leveraging technologies like machine learning, deep learning, and natural language processing to solve complex challenges.
+I am driven by a passion for AI and software development along with data analytics, with a strong foundation in building scalable and secure applications. I thrive on innovative projects, leveraging technologies like machine learning, deep learning, natural language processing and the latest technological trend Agentic AI and Generative AI leveraging LLMs to solve complex challenges and build robust AI powered applications.
 
 ---
 
-## 🛠️ Technologies
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
 
 Here’s a snapshot of my tech stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-AE2A2A?style=flat&logo=matlab&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=blue)
+![Matlab](https://img.shields.io/badge/Matlab-AE2A2A?style=flat&logo=mathworks&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=green)
+![SparkSQL](https://img.shields.io/badge/SparkSQL-E25A1C?style=flat&logo=apachespark&logoColor=orange)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=orange)
+![Transformers](https://img.shields.io/badge/Transformers-FFC107?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=blue)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SparkSQL](https://img.shields.io/badge/SparkSQL-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-- **Programming**: Data Structures, Object-Oriented Programming
-- **AI & ML**: Machine Learning, Deep Learning, Natural Language Processing
-- **Systems**: Operating Systems, Computer Networks, Signal and Speech Processing
+- **Programming**: Data Structures, Object-Oriented Programming.
+- **AI & ML**: Machine Learning, Deep Learning, Natural Language Processing, Signal Processing.
+- **Systems**: Operating Systems, Computer Networks, Linux.
 
 ---
 
 ## 🚀 Projects
 
-Here are some of my key projects:
+Here are some of my projects:
 
 <details>
-<summary><strong>QueryMind Web Application</strong></summary>
+<summary><strong>QueryMind:a Sql AI Agent</strong></summary>
 
 - **Description**: A Streamlit-based web interface for interacting with SQLite databases using natural language queries. Features include user authentication, chat session management, and a neon-themed UI with a cyberpunk aesthetic.
 - **Tech Stack**: Python, Streamlit, SQLite, LangChain, bcrypt, CSS
