@@ -2,7 +2,7 @@
 
 <!----Tag line------>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;Building+LLM-based+Agentic+Systems;Computer+Science+(AI)+Graduate;Agentic+AI;Machine+Learning+Enthusiast;Building+Different" alt="Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&height=50&lines=Software+Developer;Building LLM-based Agentic+Systems;Computer+Science+(AI)+Graduate;Agentic+AI;Machine+Learning+Enthusiast;Building+Different" alt="Headline" />
 </div>
 👋 A passionate software developer and AI enthusiast with expertise in building intelligent systems and agentic AI solutions. I specialize in Python, Java, and SQL, with a focus on creating impactful applications like **QueryMind**, a fully-fledged SQL AI agent web application. My interests lie in advancing agentic AI through machine learning, natural language processing, and robust software engineering.
 
